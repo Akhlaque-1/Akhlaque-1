@@ -17,7 +17,7 @@
 
 ### 🌐 Connect With Me  
 <div id="badges">
-  <a href="https://github.com/AkhlaqueAhmed">
+  <a href="https://github.com/Akhlaque-1">
     <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" />
   </a>
   <a href="https://www.instagram.com/">

@@ -35,7 +35,27 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Akhlaque's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkhlaqueAhmed&show_icons=true&theme=dark)
+
+### 📊 GitHub Stats
+
+
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=akhlaque-1&theme=dark&hide_border=true" />
+
+<!-- Main Stats -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akhlaque-1&show_icons=true&theme=dark" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akhlaque-1&layout=compact&theme=dark" />
+
+<br>
+
+⭐️ From [akhlaque](https://github.com/akhlaque-1)
+
+
+
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhlaqueAhmed&layout=compact&theme=dark)

@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Akhlaque Ahmed</h1>
-<h3 align="center">Web Developer | IT Student</h3>
+<h3 align="center">Web Developer | IT Student | Future Full-Stack Engineer</h3>
 
 ---
 
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Modern Web Development**  
-- 🌱 I’m learning **HTML, CSS, JavaScript, TypeScript, Next.js, React & Python**  
+- 🌱 Learning: **HTML, CSS, JavaScript, TypeScript, Next.js, React, FastAPI, Python, AI LLM SDKs & Docker**  
 - 💻 Exploring **Full-Stack Development** step by step  
-- 💬 Ask me anything about: **Web Development, CSS, JavaScript, Firebase, Next.js**  
-- 📫 Reach me at: **akhlaqueahmed397@gmail.com**  
+- 💬 Ask me anything about: **Web Development, CSS, JavaScript, Firebase, Next.js, FastAPI, Python & Artificial Intelligence**  
+- 📫 Contact me: **akhlaqueahmed397@gmail.com**  
 - ⚡ Fun Fact: I love building real-world projects to sharpen my skills  
 
 ---
@@ -31,14 +31,11 @@
 ---
 
 ### 🛠️ Languages & Tools  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,python,firebase,git,github,postman,figma&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,python,firebase,git,github,postman,figma,docker&perline=7)](https://skillicons.dev)
 
 ---
 
-
-### 📊 GitHub Stats
-
-
+### 📊 GitHub Stats  
 
 <!-- Streak -->
 <img src="https://streak-stats.demolab.com?user=akhlaque-1&theme=dark&hide_border=true" />
@@ -49,13 +46,6 @@
 <!-- Top Languages -->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akhlaque-1&layout=compact&theme=dark" />
 
-<br>
+---
 
-⭐️ From [akhlaque](https://github.com/akhlaque-1)
-
-
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkhlaqueAhmed&layout=compact&theme=dark)
+⭐️ From [Akhlaque Ahmed](https://github.com/akhlaque-1)

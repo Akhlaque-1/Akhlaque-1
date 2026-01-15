@@ -20,18 +20,32 @@
   <a href="https://github.com/Akhlaque-1">
     <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" />
   </a>
+
+  <a href="https://linkedin.com/in/akhlaque-ahmed-2162b52b4">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
   <a href="https://www.instagram.com/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
   <a href="https://fb.com/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  
+  <a href="https://x.com/">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
 ---
 
 ### 🛠️ Languages & Tools  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,python,firebase,git,github,postman,figma,docker&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,nextjs,react,python,firebase,git,github,postman,figma,docker&perline=7)](https://skillicons.dev)
 
 ---
 

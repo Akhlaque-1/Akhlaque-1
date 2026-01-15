@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   
-  <a href="https://x.com/">
+  <a href="https://x.com/A95738Akhlaque">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 

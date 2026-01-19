@@ -44,7 +44,10 @@
 
 ### 📊 GitHub Stats  
 
-<!-- Streak -->
+<!-- Streak 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhlaque-1&layout=compact&theme=dark" />
+
 <img src="https://streak-stats.demolab.com?user=akhlaque-1&theme=dark&hide_border=true" />
 
 <!-- Main Stats -->

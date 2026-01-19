@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Modern Web Development**  
 - 🌱 Learning: **HTML, CSS, JavaScript, TypeScript, Next.js, React, FastAPI, Python, Agentic AI, LLM SDKs & Cloud Native Docker**  
 - 💻 Exploring **Full-Stack Development** step by step  
-- 💬 Ask me anything about: **Web Development, Html, CSS, Tailwind Css, JavaScript, TypeScript, Bootstrap, Firebase, React, Next.js, Artificial Intelligence Python, FastAPI, Cloud Native, Docker, loud deployments **  
+- 💬 Ask me anything about: **Web Development, Html, CSS, Tailwind Css, JavaScript, TypeScript, Bootstrap, Firebase, React, Next.js, Artificial Intelligence Python, FastAPI, Cloud Native Docker**  
 - 📫 Contact me: **akhlaqueahmed397@gmail.com**  
 - ⚡ Fun Fact: I love building real-world projects to sharpen my skills  
 

@@ -17,10 +17,7 @@
 
 ### 🌐 Connect With Me  
 <div id="badges">
-  <a href="https://github.com/Akhlaque-1">
-    <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-
+ 
   <a href="https://linkedin.com/in/akhlaque-ahmed-2162b52b4">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

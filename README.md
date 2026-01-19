@@ -1,15 +1,15 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Akhlaque Ahmed</h1>
-<h3 align="center">Fronted Web Developer | IT Student | Future Full-Stack Engineer</h3>
+<h3 align="center">Frontend Web Developer | IT Student | Future Full-Stack Software Engineer</h3>
 
 ---
 
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Modern Web Development**  
-- 🌱 Learning: **HTML, CSS, JavaScript, TypeScript, Next.js, React, FastAPI, Python, AI LLM SDKs & Cloud Native Docker**  
+- 🌱 Learning: **HTML, CSS, JavaScript, TypeScript, Next.js, React, FastAPI, Python, Agentic AI, LLM SDKs & Cloud Native Docker**  
 - 💻 Exploring **Full-Stack Development** step by step  
-- 💬 Ask me anything about: **Web Development,Html, CSS, JavaScript, TypeScript, Firebase, React, Next.js, FastAPI, Python & Artificial Intelligence**  
+- 💬 Ask me anything about: **Web Development, Html, CSS, Tailwind Css, JavaScript, TypeScript, Bootstrap, Firebase, React, Next.js, Artificial Intelligence Python, FastAPI, Cloud Native, Docker, loud deployments **  
 - 📫 Contact me: **akhlaqueahmed397@gmail.com**  
 - ⚡ Fun Fact: I love building real-world projects to sharpen my skills  
 

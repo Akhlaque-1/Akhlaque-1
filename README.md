@@ -41,7 +41,7 @@
 ---
 
 ### 🛠️ Languages & Tools  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,react,nextjs,python,firebase,git,github,postman,figma,docker&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,firebase,react,nextjs,python,git,github,figma,linux,docker&perline=7)](https://skillicons.dev)
 
 ---
 

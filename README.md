@@ -23,7 +23,7 @@
 ### 🌐 Connect With Me  
 <div id="badges">
 
-  <a href="https://akhlaque-1.github.io/SMIT-Assignment-Portfolio/">
+  <a href="https://my-portfolio-next-xi.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
   </a> 
 

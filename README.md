@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Akhlaque Ahmed</h1>
-<h3 align="center">Frontend Web Developer | IT Student | Future Full-Stack Software Engineer</h3>
+<h3 align="center">Full Stack Developer | MERN Stack Developer | Exploring AI & Machine Learning </h3>
 
 <!-- Center Typing Animation -->
 <p align="center">

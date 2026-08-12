@@ -60,13 +60,30 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhlaque-1&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhlaque-1&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/udaysharmadev?label=Followers&style=flat" alt="Followers" />
 </p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=Akhlaque&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=udaysharmadev&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 

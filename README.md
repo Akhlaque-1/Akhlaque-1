@@ -1,11 +1,11 @@
-# Hi there 👋
+Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Akhlaque Ahmed</h1>
 
 <h3 align="center">MERN Stack Developer | AI & LLM Developer | React, Next.js, Node.js, TypeScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;AI+%26+LLM+Developer;Full+Stack+Web+Developer;Prompt+Engineering;Building+AI-Powered+Applications;Open-Source+Contributor+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;AI+%26+LLM+Developer;Full+Stack+Web+Developer;Prompt+Engineering;Building+AI-Powered+Applications;Open-Source+Contributor+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ### 🛠️ Languages & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,fastapi,tailwind,bootstrap,firebase,docker,git,github,figma,linux&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,fastapi,tailwind,bootstrap,firebase,docker,git,github,figma,linux&perline=7" />
 </p>
 
 ### 🤖 AI & LLM
@@ -39,34 +39,29 @@
 <p align="left">
 
 <a href="https://my-portfolio-next-xi.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/akhlaque-ahmed-2162b52b4">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://x.com/A95738Akhlaque">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="mailto:akhlaqueahmed397@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
-
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akhlaque-1&show_icons=true&theme=dark" />
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akhlaque-1&show_icons=true&theme=dark" />
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akhlaque-1&layout=compact&theme=dark" />
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akhlaque-1&layout=compact&theme=dark" />
 
 ---
 
@@ -87,74 +82,7 @@
 ---
 
 <p align="center">
-  ⭐ From <a href="https://github.com/akhlaque-1">Akhlaque Ahmed</a>
+⭐ From <a href="https://github.com/akhlaque-1">Akhlaque Ahmed</a>
 </p>
 
-
 ---
-
-### 🚀 About Me  
-- 🔭 Currently working on **Modern Frontend & Web Development**  
-- 🌱 Skills & Learning: **HTML, CSS, JavaScript, TypeScript, React, Next.js, Python, FastAPI, Agentic AI, LLM SDKs, Docker (Cloud Native)**  
-- 💻 Growing step by step toward **Full-Stack Development**  
-- 💬 Ask me about: **Frontend Development, Tailwind CSS, Bootstrap, Firebase, React, Next.js, JavaScript & TypeScript**  
-- 📫 Contact: **akhlaqueahmed397@gmail.com**  
-- ⚡ Fun Fact: I love building real-world projects to sharpen my skills  
-
----
-
-### 🌐 Connect With Me  
-<div id="badges">
-
-  <a href="https://my-portfolio-next-xi.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a> 
-
-  <a href="https://linkedin.com/in/akhlaque-ahmed-2162b52b4">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://x.com/A95738Akhlaque">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-
- 
-</div>
-
----
-
-### 🛠️ Languages & Tools  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,firebase,react,nextjs,python,git,github,figma,linux,docker&perline=7)](https://skillicons.dev)
-
----
-
-### 📊 GitHub Stats  
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akhlaque-1&show_icons=true&theme=dark" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akhlaque-1&layout=compact&theme=dark" />
-
----
-
-## 🏆 Achievements
-- 🦈 **Pull Shark** – Recognized for meaningful pull request contributions  
-- 🎯 **YOLO** – Consistent activity and early engagement on GitHub  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-⭐️ From [Akhlaque Ahmed](https://github.com/akhlaque-1)

@@ -22,11 +22,22 @@
 
 ---
 
-### 🛠️ Languages & Technologies
+🛠️ Tech Stack
+💻 Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,fastapi,tailwind,bootstrap,firebase,docker,git,github,figma,linux&perline=7" />
-</p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,python&perline=8" /> </p>
+
+⚛️ Frontend
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&perline=8" /> </p>
+
+🖥️ Backend & Database
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,firebase&perline=8" /> </p>
+
+🔧 Tools & Platforms
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,vscode&perline=8" /> </p>
 
 ---
 
